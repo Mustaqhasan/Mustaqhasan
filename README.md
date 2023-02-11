@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mustaq shaikh" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="mustaq shaikh" height="30" width="40" /></a>
 <a href="https://fb.com/mustaqhasan shaikh" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733547.png" alt="mustaqhasan shaikh" height="30" width="40" /></a>
-<a href="https://fb.com/mustaqhasan shaikh" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/351/351456.png" alt="mustaqhasan shaikh" height="30" width="40" /></a>
+<a href="https://mustaqhasan.github.io/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/351/351456.png" alt="mustaqhasan shaikh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
