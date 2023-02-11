@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mustaqhasan.github.io/](https://mustaqhasan.github.io/)
 
-- 💬 Ask me about **react,redux,javascript,typescript**
+- 💬 Ask me about **React,Redux,JavaScript,TypeScript**
 
 - 📫 How to reach me **shaikhmustaq7714@gmail.com**
 
