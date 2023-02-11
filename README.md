@@ -16,6 +16,7 @@
 - 📫 How to reach me **shaikhmustaq7714@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IdtzSYAkF5iz_6T30sSRPnQsBPAoVYlt/view?usp=share_link](https://drive.google.com/file/d/1IdtzSYAkF5iz_6T30sSRPnQsBPAoVYlt/view?usp=share_link)
+<p>I am from Nande, Maharashtra, India. Technology enthusiast, well-focused Full Stack Developer👨‍💻. Passionate about building fully functional Web Apps. I am skilled in HTML, CSS, JavaScript, ReactJS, Redux, React Router. Good knowledge of Data Structure and Algorithms.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
