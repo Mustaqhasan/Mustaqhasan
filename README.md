@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Complex Projects**
 
-- 👨‍💻 All of my projects are available at https://mustaqhasan.github.io
+- 👨‍💻 All of my projects are available at <a href="https://mustaqhasan.github.io" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/351/351456.png" alt="mustaqhasan shaikh" height="30" width="40" /></a>
 - 💬 Ask me about **React,Redux,JavaScript,TypeScript**
 
 - 📫 How to reach me **shaikhmustaq7714@gmail.com**
