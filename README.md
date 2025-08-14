@@ -27,12 +27,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <img width="80px" src="https://cdn-icons-png.flaticon.com/128/919/919853.png"></img>
 <img width="80px" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"></img>
 <img width="80px" src="https://cdn-icons-png.flaticon.com/128/753/753244.png"></img>
 <img width="80px" src="https://cdn-icons-png.flaticon.com/128/2111/2111288.png"></img>
-<img width="80px" src="https://cdn-icons-png.flaticon.com/128/919/919853.png"></img>
-<img width="80px" src="https://cdn-icons-png.flaticon.com/128/919/919853.png"></img>
-
+<img width="80px" src="https://img.icons8.com/?size=96&id=iGCCE2iEmh2u&format=png"></img>
+<img width="80px" src="https://img.icons8.com/?size=96&id=cvzmaEA4kC0o&format=png"></img>
+<img width="80px" src="https://img.icons8.com/?size=96&id=kEkT1u7zTDk5&format=png"></img>
 </p>
 
 
