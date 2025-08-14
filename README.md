@@ -27,21 +27,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img width="80px" src="https://cdn-icons-png.flaticon.com/128/174/174854.png"></img>
-<img width="80px" src="https://cdn-icons-png.flaticon.com/128/732/732190.png"></img>
 <img width="80px" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"></img>
-<img width="80px" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png"></img>
 <img width="80px" src="https://cdn-icons-png.flaticon.com/128/753/753244.png"></img>
-<img width="80px" src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png"></img>
-<img width="80px" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"></img>
-<img width="80px" src="https://t4.ftcdn.net/jpg/00/90/67/37/240_F_90673721_nTq4hQ0UG1RxQ1niYwMnhzp05fsdkZyN.jpg"></img>
-
 <img width="80px" src="https://cdn-icons-png.flaticon.com/128/2111/2111288.png"></img>
 
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustaqhasan&show_icons=true&locale=en&layout=compact" alt="mustaqhasan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustaqhasan&show_icons=true&locale=en" alt="mustaqhasan" /></p>
 
