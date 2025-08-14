@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Mustaq Shaikh</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h3 align="center">A Passionate DevOps Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustaqhasan&label=Profile%20views&color=0e75b6&style=flat" alt="mustaqhasan" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Complex Projects**
 
 - 👨‍💻 All of my projects are available at [Click here](https://mustaqhasan.github.io/)
 
-- 💬 Ask me about **React,Redux,JavaScript,TypeScript**
+- 💬 Ask me about **AWS services, Ansible, Docker, Kubernetes, Linux, Nagios**
 
 - 📫 How to reach me **shaikhmustaq7714@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IdtzSYAkF5iz_6T30sSRPnQsBPAoVYlt/view?usp=share_link](https://drive.google.com/file/d/1IdtzSYAkF5iz_6T30sSRPnQsBPAoVYlt/view?usp=share_link)
-<p>I am from Nande, Maharashtra, India. Technology enthusiast, well-focused Full Stack Developer👨‍💻. Passionate about building fully functional Web Apps. I am skilled in HTML, CSS, JavaScript, ReactJS, Redux, React Router. Good knowledge of Data Structure and Algorithms.</p>
+<p>I am from Nanded, Maharashtra, India. Technology enthusiast, well-focused Devops Engineer👨‍💻. Passionate about building fully functional Web Apps. I am skilled in AWS all services, DevOps tools like Ansible, Kubernetes, Docker, Nagios. Good knowledge of React and Javascript.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
